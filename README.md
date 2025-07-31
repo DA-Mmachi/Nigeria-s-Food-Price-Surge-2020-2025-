@@ -4,6 +4,17 @@
 
 As an Economist and Data Analyst, I combined my domain knowledge and analytical skills to investigate Nigeria’s rising food prices between 2020 and January–June 2025. The goal was to make inflation relatable by answering a simple but powerful question: What can ₦100 buy now vs 5 years ago? This Power BI project visualizes food price changes for eight staple food items across Nigeria using real market data, with insights designed for policymakers, analysts, and everyday Nigerians.
 
+
+### Dash Board Snapshot
+
+<img width="1659" height="791" alt="Screenshot 2025-07-16 002138" src="https://github.com/user-attachments/assets/d3222f27-f38e-408a-a61a-f02ca017408f" />
+
+
+
+
+# Presentation Slides 
+Prefer a visual summary of the analysis? Explore key findings,insights and recommendations[Click here to view the slides](https://drive.google.com/file/d/1bYpSHN0hKaCL0GOEhbDApG3Kx9yApPAe/view?usp=drivesdk)
+
 ## Data Sources
 
 - Primary Source:Nigeria National Bureau of Statistics (NBS)-Food Price Watch Reports (2020–2025)
@@ -37,13 +48,13 @@ As an Economist and Data Analyst, I combined my domain knowledge and analytical 
 ## Explanatory Data Analysis (EDA)
 To explore trends and hidden insights, I asked:
 
-- What is the average price increase of each staple item between 2020 and 2025?
+- What is the average price increase of each staple item between 2020 and 2025?[Answer1](#answer1)
 
-- Which food items experienced the steepest price surge?
+- Which food items experienced the steepest price surge?[Answer2](#answer2)
 
-- How did inflation and exchange rate movement correlate with food price jumps?
+- How did inflation and exchange rate movement correlate with food price jumps?[Answer3A](#answer3a)[Answer3B](#answer3b)
 
-- What does ₦100 buy in 2025 compared to 2020 item by item?
+- What does ₦100 buy in 2025 compared to 2020 item by item?[Answer4](#answer4)
 
 ## Data Analysis
 
@@ -59,16 +70,27 @@ To explore trends and hidden insights, I asked:
 
 ## Results and Findings
 
+##### Answer1
 - Average Food Price Increase (2020–2025): Over 380%
 
-- Inflation Rate (May 2025): 21%
+<img width="490" height="186" alt="Screenshot 2025-07-14 201218" src="https://github.com/user-attachments/assets/a16142ea-65df-4ba5-adb8-d76858f1b7dc" />
 
-- Exchange Rate Shift: ₦361 → ₦1,525 (official rate)
-
+##### Answer2
 - Biggest Price Surge: Yam tuber and Groundnut Oil
+<img width="1487" height="696" alt="Screenshot 2025-07-16 001036" src="https://github.com/user-attachments/assets/457aeedf-f5bc-4e49-878c-22c5f1a295bb" />
 
+##### Answer3A 
+- Inflation Rate (May 2025): 21%
+<img width="509" height="185" alt="Screenshot 2025-07-14 201018" src="https://github.com/user-attachments/assets/893cb926-6f56-4a45-9745-dd0cf73b1f0c" />
+
+##### Answer3B
+- Exchange Rate Shift: ₦361 → ₦1,525 (official rate)
+  <img width="516" height="184" alt="Screenshot 2025-07-14 201431" src="https://github.com/user-attachments/assets/56678acb-4d09-47eb-ad78-480761a8ad7b" />
+
+
+##### Answer4
 - ₦100 could barely buy a slice of bread in 2025 — items that once cost ₦80–₦100 now exceed ₦300–₦400
-
+<img width="1634" height="736" alt="Screenshot 2025-07-16 002431" src="https://github.com/user-attachments/assets/4133341c-eddd-4cbc-8ab6-b530ccbe1924" />
 
 ## Recommendation
 
@@ -102,12 +124,14 @@ To explore trends and hidden insights, I asked:
 
 - Personal market experience (cross-checking data with open market observations)
 
-. Author
-Mmachi Goodness Paul-Emeka
-Economist | Data Analyst
-Email:(mmachipaulemela@gmail.com)[mailto:mmachipaulemeka@gmail.com]
-LinkedIn: (Mmachi Goodness Paul - Emeka)[https://www.linkedin.com/in/mmachi-goodness-paul-emeka]
+## Author
 
+### Mmachi Goodness Paul-Emeka
+### Economist | Data Analyst
+
+- Email:[mmachipaulemeka@gmail.com](mailto:mmachipaulemeka@gmail.com)
+
+- Linkedin: [Mmachi Goodness Paul - Emeka](https://www.linkedin.com/in/mmachi-goodness-paul-emeka)
 
 
 
