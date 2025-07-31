@@ -5,7 +5,8 @@
 As an Economist and Data Analyst, I combined my domain knowledge and analytical skills to investigate Nigeria’s rising food prices between 2020 and January–June 2025. The goal was to make inflation relatable by answering a simple but powerful question: What can ₦100 buy now vs 5 years ago? This Power BI project visualizes food price changes for eight staple food items across Nigeria using real market data, with insights designed for policymakers, analysts, and everyday Nigerians.
 
 
-[Dash Board Snapshot](https://drive.google.com/file/d/1JclPCul-Z1zw7MG9xEjsX_QyZ2Mcbi-1/view?usp=sharing)
+
+<img width="1659" height="791" alt="Screenshot 2025-07-16 002138" src="https://github.com/user-attachments/assets/8787d544-5506-40a7-8331-5c2d1b40c007" />
 
 
 
