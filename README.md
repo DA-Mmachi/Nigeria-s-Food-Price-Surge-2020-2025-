@@ -7,7 +7,8 @@ As an Economist and Data Analyst, I combined my domain knowledge and analytical 
 
 ### Dash Board Snapshot
 
-<img width="1659" height="791" alt="Screenshot 2025-07-16 002138" src="https://github.com/user-attachments/assets/d3222f27-f38e-408a-a61a-f02ca017408f" />
+<img width="1659" height="791" alt="Screenshot 2025-07-16 002138" src="https://github.com/user-attachments/assets/cbcea5ac-b749-4f5d-88cc-969676ff3c79" />
+
 
 
 
@@ -72,25 +73,44 @@ To explore trends and hidden insights, I asked:
 
 ##### Answer1
 - Average Food Price Increase (2020–2025): Over 380%
+<img width="490" height="186" alt="Screenshot 2025-07-14 201218" src="https://github.com/user-attachments/assets/0cdf5077-3b33-4d13-93a3-c72643e5d973" />
 
-<img width="490" height="186" alt="Screenshot 2025-07-14 201218" src="https://github.com/user-attachments/assets/a16142ea-65df-4ba5-adb8-d76858f1b7dc" />
+
+
+
 
 ##### Answer2
 - Biggest Price Surge: Yam tuber and Groundnut Oil
-<img width="1487" height="696" alt="Screenshot 2025-07-16 001036" src="https://github.com/user-attachments/assets/457aeedf-f5bc-4e49-878c-22c5f1a295bb" />
+<img width="1487" height="696" alt="Screenshot 2025-07-16 001036" src="https://github.com/user-attachments/assets/c0827b65-46d9-43c8-afcf-82ec68f1effc" />
+
+
+
 
 ##### Answer3A 
 - Inflation Rate (May 2025): 21%
-<img width="509" height="185" alt="Screenshot 2025-07-14 201018" src="https://github.com/user-attachments/assets/893cb926-6f56-4a45-9745-dd0cf73b1f0c" />
+<img width="509" height="185" alt="Screenshot 2025-07-14 201018" src="https://github.com/user-attachments/assets/1547b869-40fc-40a3-b3ef-59e3118f906c" />
+
+
+
+  
 
 ##### Answer3B
 - Exchange Rate Shift: ₦361 → ₦1,525 (official rate)
-  <img width="516" height="184" alt="Screenshot 2025-07-14 201431" src="https://github.com/user-attachments/assets/56678acb-4d09-47eb-ad78-480761a8ad7b" />
+
+<img width="516" height="184" alt="Screenshot 2025-07-14 201431" src="https://github.com/user-attachments/assets/cf024a25-9932-420c-bc2b-9616dce0e9df" />
+
+
+
 
 
 ##### Answer4
 - ₦100 could barely buy a slice of bread in 2025 — items that once cost ₦80–₦100 now exceed ₦300–₦400
-<img width="1634" height="736" alt="Screenshot 2025-07-16 002431" src="https://github.com/user-attachments/assets/4133341c-eddd-4cbc-8ab6-b530ccbe1924" />
+
+<img width="1699" height="766" alt="Screenshot 2025-07-15 153537" src="https://github.com/user-attachments/assets/220386b3-1186-4a88-8118-bdd68d1f082c" />
+
+
+
+
 
 ## Recommendation
 
